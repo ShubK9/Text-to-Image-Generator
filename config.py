@@ -1,1 +1,1 @@
-apikey=""
+apikey="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"
